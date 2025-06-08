@@ -3,6 +3,3 @@ pip install --upgrade pip
 pip install PyQt5
 pip install pyyaml
 pip install xmltodict
-pip install pyyaml
-pip install xmltodict
-pip install PyQt5
